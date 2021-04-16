@@ -2,10 +2,10 @@
   <div class="text-md-center">
     <v-avatar
       color="black--text"
-      size="120"
+      size="150"
     >
       <img
-        :src="publicPath('/img/mohit-dp.jpeg')"
+        :src="publicPath('/img/1.png')"
         alt="Mohit Kumar"
       >
     </v-avatar>
