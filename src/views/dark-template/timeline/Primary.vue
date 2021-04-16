@@ -153,7 +153,7 @@ export default {
           <p>
             <h5>Senior Test Automation Engineer/Product QA</h5>
           </p>
-          <li>Setting up the test environment</li><li>Testing Windows Phone Applications manually</li><li>Monitoring the Application and DB servers</li><li>Involved in preparation of Mobile Application Testing Guidelines, Test Plan, Test Cases, and Test Scenarios</li><li>Performing Functional, Integration, System, Regression Testing</li><li>Reporting bugs to developers using JIRA</li><li>Involve in daily scrum meeting with team as well as with the clients</li><li>Involve in the team to gain expertise on various test tools</li><</li>`,
+          <li>Setting up the test environment</li><li>Testing Windows Phone Applications manually</li><li>Monitoring the Application and DB servers</li><li>Involved in preparation of Mobile Application Testing Guidelines, Test Plan, Test Cases, and Test Scenarios</li><li>Performing Functional, Integration, System, Regression Testing</li><li>Reporting bugs to developers using JIRA</li><li>Involve in daily scrum meeting with team as well as with the clients</li><li>Involve in the team to gain expertise on various test tools</li></li>`,
         iconImage  : 'img/timeline/GL.png',
         imageHeight: 200,
       },

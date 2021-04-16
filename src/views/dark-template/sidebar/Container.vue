@@ -74,7 +74,7 @@ export default {
     return {
       sections: {
         info: {
-          title: 'INFO!',
+          title: 'INFO',
           items: [
             {
               name: 'Birth Date',
@@ -89,7 +89,7 @@ export default {
           ],
         },
         socials: {
-          title: 'CONTACT ME!',
+          title: 'CONTACT ME',
           items: [
             {
               name: 'Email',
