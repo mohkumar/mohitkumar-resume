@@ -124,7 +124,7 @@ export default {
         title: 'Article on The Do’s and Don’ts of Software Product Testing',
         html : `
           <p>
-              Current status: <span class="light-blue--text lighten-3">Published</span><br>Available on: <a target="_blank" href="https://www.linkedin.com/pulse/dos-donts-software-product-testing-mohit-kumar/?trackingId=p0MF59wMQB65XuoHnUxx5Q%3D%3D">The Do’s and Don’ts of Software Product Testing</a>
+              Current status: <span class="blue--text text--darken-2">Published</span><br>Available on: <a target="_blank" href="https://www.linkedin.com/pulse/dos-donts-software-product-testing-mohit-kumar/?trackingId=p0MF59wMQB65XuoHnUxx5Q%3D%3D">The Do’s and Don’ts of Software Product Testing</a>
           </p>
           <p>
             The quality of any software product is sustained on the success of software product testing. However, QA members should prioritize their strategies, take a hard look at their QA processes and decide to make some changes, moving away from the typical testing approach considering few dos and don’ts to ensure the delivery of products with top-notch quality and rendering a superior user experience.
@@ -139,7 +139,7 @@ export default {
         title: 'Article on Design QA - Make it Official',
         html : `
           <p>
-              Current status: <span class="light-blue--text lighten-3">Published</span><br>Available on: <a target="_blank" href="https://www.linkedin.com/pulse/design-qa-make-official-mohit-kumar/?trackingId=8CRbBF44R7KJX%2Bu9KYpdug%3D%3D">Design QA - Make it Official</a>
+              Current status: <span class="blue--text text--darken-2">Published</span><br>Available on: <a target="_blank" href="https://www.linkedin.com/pulse/design-qa-make-official-mohit-kumar/?trackingId=8CRbBF44R7KJX%2Bu9KYpdug%3D%3D">Design QA - Make it Official</a>
           </p>
           <p>
             In digital product development, the user experience encloses everything that the product team does; design, development, and testing — everyone’s role impact the need of the intended user.

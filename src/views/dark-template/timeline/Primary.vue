@@ -122,11 +122,19 @@ export default {
       {
         detailed   : true,
         transparent: false,
-        year       : '2010 - 2012 Bangalore',
-        title      : 'Avembsys Technologies Pvt. Ltd.',
+        year       : '2010 - 2012',
+        title      : 'Avembsys Technologies Pvt. Ltd., Bangalore',
         html       : `
                     <p>
-                        <h5>Software Engineer/Product Engineer</h5>
+                        <h1>
+                          <h2>
+                            <h3>
+                              <h4>
+                                <h5>Software Engineer/Product Engineer</h5>
+                              </h4>
+                            </h3>
+                          </h2>
+                        </h1>
                     </p>
                     <ul>
                       <li>Involved in Verification of Software Requirements Specification</li>
@@ -141,11 +149,19 @@ export default {
       {
         detailed   : true,
         transparent: false,
-        year       : '2012 - 2014 Bangalore',
-        title      : 'Tech Mahindra',
+        year       : '2012 - 2014',
+        title      : 'Tech Mahindra, Bangalore',
         html       : `
                     <p>
-                      <h5>Software Test Engineer</h5>
+                    <h1>
+                        <h2>
+                            <h3>
+                              <h4>
+                                <h5>Software Test Engineer</h5>
+                              </h4>
+                            </h3>
+                          </h2>
+                        </h1>
                     </p>
                     <ul>
                       <li>Involved in configuration of Robotium, MonkeyTalk (android as well as iOS) and android selenium</li>
@@ -166,12 +182,20 @@ export default {
       },
       {
         detailed   : true,
-        year       : '2014 - 2015 Bangalore',
+        year       : '2014 - 2015',
         transparent: false,
-        title      : 'GlobalLogic',
+        title      : 'GlobalLogic, Bangalore',
         html       : `
           <p>
-            <h5>Senior Test Automation Engineer/Product QA</h5>
+            <h1>
+                <h2>
+                  <h3>
+                      <h4>
+                          <h5>Senior Test Automation Engineer/Product QA</h5>
+                      </h4>
+                  </h3>
+                </h2>
+            </h1>
           </p>
           <ul>
             <li>Setting up the test environment</li>
@@ -188,12 +212,20 @@ export default {
       },
       {
         detailed   : true,
-        year       : '2015 - 2016 Bangalore',
+        year       : '2015 - 2016',
         transparent: false,
-        title      : 'Medtronic Inc.',
+        title      : 'Medtronic Inc., Bangalore',
         html       : `
                     <p>
-                        <h5>Senior Test Automation Engineer/Product QA</h5>
+                      <h1>
+                        <h2>
+                            <h3>
+                              <h4>
+                                <h5>Senior Test Automation Engineer/Product QA</h5>
+                              </h4>
+                            </h3>
+                          </h2>
+                        </h1>
                     </p>
                     <ul>
                       <li>Testing customized android application for Console GUI sub system along with Therapy sub system</li>
@@ -214,11 +246,19 @@ export default {
       },
       {
         detailed   : true,
-        year       : '2016 - 2018 Bangalore',
+        year       : '2016 - 2018',
         transparent: false,
         html       : `
                     <p>
-                         <h5>Consultant/Test Automation Lead</h5>
+                       <h1>
+                          <h2>
+                            <h3>
+                              <h4>
+                                <h5>Consultant/Test Automation Lead</h5>
+                              </h4>
+                            </h3>
+                          </h2>
+                        </h1>
                     </p>
                     <ul>
                       <li>Leading Test Automation Team and coordinating between developers and manual QA team</li>
@@ -234,12 +274,20 @@ export default {
       },
       {
         detailed   : true,
-        year       : '2018-Present Bangalore',
+        year       : '2018-Present',
         transparent: false,
-        title      : 'Deloitte',
+        title      : 'Deloitte, Bangalore',
         html       : `
                     <p>
-                        <h5>Senior Specialist/Automation Solution Architect</h5>
+                      <h1>
+                          <h2>
+                            <h3>
+                              <h4>
+                                <h5>Senior Specialist/Automation Solution Architect</h5>
+                              </h4>
+                            </h3>
+                          </h2>
+                        </h1>
                     </p>
                     <ul>
                       <li>Working as Test Manager and helped him setting up Manual &amp; Automation processes for Deloitte’s first-ever Class 2 SaMD App</li>

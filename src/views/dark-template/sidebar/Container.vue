@@ -10,7 +10,13 @@
           <span class="white--text text--lighten-3">Mohit Kumar</span>
         </h1>
         <span>
-          <h4 class="white--text text--lighten-3">Senior Specialist/Automation Architect</h4>
+          <h1>
+            <h2>
+              <h3>
+                <h4 class="white--text text--lighten-3">Senior Specialist/Automation Architect</h4>
+              </h3>
+            </h2>
+          </h1>
         </span>
       </div>
 
@@ -49,7 +55,7 @@
                     size="65"
                     width="2"
                     :value="item.value"
-                    color="white"
+                    color="black"
                     class="ma-2"
                   >
                     {{ item.text }}
