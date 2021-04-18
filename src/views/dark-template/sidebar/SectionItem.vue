@@ -18,7 +18,7 @@
       <p>
         <a
           v-if="item.link"
-          class="black--text text--lighten-3"
+          class="white--text text--lighten-3"
           :href="item.link"
           target="_blank"
         >
@@ -26,7 +26,7 @@
         </a>
         <span
           v-else
-          class="black--text"
+          class="white--text"
         >
           {{ item.text }}
         </span>

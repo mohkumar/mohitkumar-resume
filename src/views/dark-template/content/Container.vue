@@ -31,7 +31,7 @@
       </content-section>
       <content-section
         v-if="licences"
-        title="Licenses & certifications"
+        title="Licenses &amp; certifications"
       >
         <v-layout
           v-for="(licences, i) in licences"

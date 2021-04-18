@@ -25,6 +25,7 @@
               <v-avatar>
                 <img
                   :src="publicPath(item.iconImage)"
+                  alt="image"
                 >
               </v-avatar>
             </template>
@@ -127,7 +128,13 @@ export default {
                     <p>
                         <h5>Software Engineer/Product Engineer</h5>
                     </p>
-                    <li>Involved in Verification of Software Requirements Specification</li><li>Developing HSI Test Cases (High Level Test Cases) RBT and SWI Test Cases (Low Level Test Cases).</li><li>White Box Testing: Developing HSI Test Scripts, Compiling and executing on Automation tool RTRT Tester</li><li>To Analyze test results and reporting the bugs</li><li>Involved in technical peer review and process quality review for SDD, HSI Test cases review and SWI Test cases</li>`,
+                    <ul>
+                      <li>Involved in Verification of Software Requirements Specification</li>
+                      <li>Developing HSI Test Cases (High Level Test Cases) RBT and SWI Test Cases (Low Level Test Cases)</li>
+                      <li>White Box Testing: Developing HSI Test Scripts, Compiling and executing on Automation tool RTRT Tester</li>
+                      <li>To Analyze test results and reporting the bugs</li>
+                      <li>Involved in technical peer review and process quality review for SDD, HSI Test cases review and SWI Test cases</li>
+                    </ul>`,
         iconImage  : 'img/timeline/avembsys.png',
         imageHeight: 200,
       },
@@ -138,9 +145,22 @@ export default {
         title      : 'Tech Mahindra',
         html       : `
                     <p>
-                        <h5>Software Test Engineer</h5>
+                      <h5>Software Test Engineer</h5>
                     </p>
-                    <li>Involved in configuration of Robotium, MonkeyTalk (android as well as iOS) and android selenium</li><li>Testing the web application for android, Blackberry and iOS</li><li>Testing the web application for Desktop</li><li>Writing Automation JUnit test cases using Robotium</li><li>Writing scripts using TestNG framework</li><li>Regression testing of the web applications<li>Regression testing of the Middle ware Platform Testing</li><li>Monitoring the Application and DB servers</li><li>Executing Performance, Scalability and Reliability tests</li><li>Setting up the monitors and observing the counters of Application and Database servers</li><li>Generating the execution summary reports and communicating it to the clients</li><li>Encourage team members to continue brainstorming</li>`,
+                    <ul>
+                      <li>Involved in configuration of Robotium, MonkeyTalk (android as well as iOS) and android selenium</li>
+                      <li>Testing the web application for android, Blackberry and iOS</li>
+                      <li>Testing the web application for Desktop</li>
+                      <li>Writing Automation JUnit test cases using Robotium</li>
+                      <li>Writing scripts using TestNG framework</li>
+                      <li>Regression testing of the web applications</li>
+                      <li>Regression testing of the Middle ware Platform Testing</li>
+                      <li>Monitoring the Application and DB servers</li>
+                      <li>Executing Performance, Scalability and Reliability tests</li>
+                      <li>Setting up the monitors and observing the counters of Application and Database servers</li>
+                      <li>Generating the execution summary reports and communicating it to the clients</li>
+                      <li>Encourage team members to continue brainstorming</li>
+                    </ul>`,
         iconImage  : 'img/timeline/techm.png',
         imageHeight: 200,
       },
@@ -153,7 +173,16 @@ export default {
           <p>
             <h5>Senior Test Automation Engineer/Product QA</h5>
           </p>
-          <li>Setting up the test environment</li><li>Testing Windows Phone Applications manually</li><li>Monitoring the Application and DB servers</li><li>Involved in preparation of Mobile Application Testing Guidelines, Test Plan, Test Cases, and Test Scenarios</li><li>Performing Functional, Integration, System, Regression Testing</li><li>Reporting bugs to developers using JIRA</li><li>Involve in daily scrum meeting with team as well as with the clients</li><li>Involve in the team to gain expertise on various test tools</li></li>`,
+          <ul>
+            <li>Setting up the test environment</li>
+            <li>Testing Windows Phone Applications manually</li>
+            <li>Monitoring the Application and DB servers</li>
+            <li>Involved in preparation of Mobile Application Testing Guidelines, Test Plan, Test Cases, and Test Scenarios</li>
+            <li>Performing Functional, Integration, System, Regression Testing</li>
+            <li>Reporting bugs to developers using JIRA</li>
+            <li>Involve in daily scrum meeting with team as well as with the clients</li>
+            <li>Involve in the team to gain expertise on various test tools</li>
+          </ul>`,
         iconImage  : 'img/timeline/GL.png',
         imageHeight: 200,
       },
@@ -166,7 +195,20 @@ export default {
                     <p>
                         <h5>Senior Test Automation Engineer/Product QA</h5>
                     </p>
-                    <li>Testing customized android application for Console GUI sub system along with Therapy sub system</li><li>Involved in preparation of Test Plan & Strategy, Test Protocols, and Test Scripts (using Appium)</li><li>Performing Functional, Integration, System, and Regression Testing</li><li>Writing Automation JUnit test cases using Robotium</li><li>Involved in Testing of Console UI application in English-Chinese translation</li><li>Heading Performance and Security Testing for customized android package<li>Involved in testing android BSP using Android Compatibility Test Suite (CTS)</li><li>Involved in Reviewing Requirement and UI Spec. document</li><li>Reporting bugs to developers using Polarian</li><li>Involve in the team to gain expertise on various test tools</li><li>Involved in attending calls with onsite team on weekly basis</li><li>EInvolved in leading test team and coordinating between development and test team</li>`,
+                    <ul>
+                      <li>Testing customized android application for Console GUI sub system along with Therapy sub system</li>
+                      <li>Involved in preparation of Test Plan &amp; Strategy, Test Protocols, and Test Scripts (using Appium)</li>
+                      <li>Performing Functional, Integration, System, and Regression Testing</li>
+                      <li>Writing Automation JUnit test cases using Robotium</li>
+                      <li>Involved in Testing of Console UI application in English-Chinese translation</li>
+                      <li>Heading Performance and Security Testing for customized android package</li>
+                      <li>Involved in testing android BSP using Android Compatibility Test Suite (CTS)</li>
+                      <li>Involved in Reviewing Requirement and UI Spec. document</li>
+                      <li>Reporting bugs to developers using Polarian</li>
+                      <li>Involve in the team to gain expertise on various test tools</li>
+                      <li>Involved in attending calls with onsite team on weekly basis</li>
+                      <li>Involved in leading test team and coordinating between development and test team</li>
+                    </ul>`,
         iconImage  : 'img/timeline/medtronic.png',
         imageHeight: 200,
       },
@@ -178,7 +220,15 @@ export default {
                     <p>
                          <h5>Consultant/Test Automation Lead</h5>
                     </p>
-                    <li>Leading Test Automation Team and coordinating between developers and manual QA team</li><li>Involved in reviewing user stories available in JIRA and providing feedback</li><li>Involved in preparation of Test Plan & Strategy, Test Protocols, and Test Scripts</li><li>Successfully Automated 200 Test cases using Xamarin UI Test</li><li>Successfully launched all the automated test cases into Xamarin Test Cloud with a 97% success rate</li><li>Writing BDD Gherkin syntax that can be used to create executable tests<li>Automating iOS and Android application using Xamarin UI + Specflow Test as well as running tests into Xamarin Test Cloud</li></li>`,
+                    <ul>
+                      <li>Leading Test Automation Team and coordinating between developers and manual QA team</li>
+                      <li>Involved in reviewing user stories available in JIRA and providing feedback</li>
+                      <li>Involved in preparation of Test Plan &amp; Strategy, Test Protocols, and Test Scripts</li>
+                      <li>Successfully Automated 200 Test cases using Xamarin UI Test</li>
+                      <li>Successfully launched all the automated test cases into Xamarin Test Cloud with a 97% success rate</li>
+                      <li>Writing BDD Gherkin syntax that can be used to create executable tests</li>
+                      <li>Automating iOS and Android application using Xamarin UI + Specflow Test as well as running tests into Xamarin Test Cloud</li>
+                    </ul>`,
         iconImage  : 'img/timeline/deloitte.png',
         imageHeight: 200,
       },
@@ -191,43 +241,21 @@ export default {
                     <p>
                         <h5>Senior Specialist/Automation Solution Architect</h5>
                     </p>
-                    <li>Working as Test Manager and helped him setting up Manual & Automation processes for Deloitte’s first-ever Class 2 SaMD App</li><li>Involved in developing first-ever connected device automation framework for Class 2 SaMD Apps</li><li>Managed the team including development, QA and Dev opts to meet the sprint timeline</li><li>Responsible for sending daily scrum report between onshore and offshore team including client as well</li><li>Headed Automation Testing individually and coordinating between the development and test team</li><li>Involved in reviewing user stories available in JIRA and providing feedback<li>Involved in preparation of Test Plan & Strategy, Test Protocols, and Test Scripts</li><li>Writing BDD Gherkin syntax that can be used to create executable tests</li><li>Involved in attending calls with the offshore and onsite team on a weekly basis</li><li>Involve in the team to gain expertise on various test tools</li><li>Providing automation testing knowledge within and across teams</li></li>`,
+                    <ul>
+                      <li>Working as Test Manager and helped him setting up Manual &amp; Automation processes for Deloitte’s first-ever Class 2 SaMD App</li>
+                      <li>Involved in developing first-ever connected device automation framework for Class 2 SaMD Apps</li>
+                      <li>Managed the team including development, QA and Dev opts to meet the sprint timeline</li>
+                      <li>Responsible for sending daily scrum report between onshore and offshore team including client as well</li>
+                      <li>Headed Automation Testing individually and coordinating between the development and test team</li>
+                      <li>Involved in reviewing user stories available in JIRA and providing feedback</li>
+                      <li>Involved in preparation of Test Plan &amp; Strategy, Test Protocols, and Test Scripts</li>
+                      <li>Writing BDD Gherkin syntax that can be used to create executable tests</li>
+                      <li>Involved in attending calls with the offshore and onsite team on a weekly basis</li>
+                      <li>Involve in the team to gain expertise on various test tools</li>
+                      <li>Providing automation testing knowledge within and across teams</li>
+                    </ul>`,
         iconImage  : 'img/timeline/deloitte.png',
         imageHeight: 200,
-      },
-      {
-        year : 'Feb - 2021',
-        title: 'Article on The Do’s and Don’ts of Software Product Testing',
-        html : `
-          <p>
-              Current status: <span class="light-blue--text lighten-3">Published</span><br>Available on: <a target="_blank" href="https://www.linkedin.com/pulse/dos-donts-software-product-testing-mohit-kumar/?trackingId=p0MF59wMQB65XuoHnUxx5Q%3D%3D">The Do’s and Don’ts of Software Product Testing</a>
-          </p>
-          <p>
-            The quality of any software product is sustained on the success of software product testing. However, QA members should prioritize their strategies, take a hard look at their QA processes and decide to make some changes, moving away from the typical testing approach considering few dos and don’ts to ensure the delivery of products with top-notch quality and rendering a superior user experience.
-          </p>
-        `,
-        image      : 'img/timeline/1612851620757.png',
-        imageHeight: 200,
-        iconImage  : 'img/timeline/linkedin.png',
-      },
-      {
-        year : 'March - 2021',
-        title: 'Article on Design QA - Make it Official',
-        html : `
-          <p>
-              Current status: <span class="light-blue--text lighten-3">Published</span><br>Available on: <a target="_blank" href="https://www.linkedin.com/pulse/design-qa-make-official-mohit-kumar/?trackingId=8CRbBF44R7KJX%2Bu9KYpdug%3D%3D">Design QA - Make it Official</a>
-          </p>
-          <p>
-            In digital product development, the user experience encloses everything that the product team does; design, development, and testing — everyone’s role impact the need of the intended user.
-            <ul>
-                <li>What is Design QA?</li>
-                <li>Difference between Design QA and QA?</li>
-            </ul>
-          </p>
-        `,
-        image      : 'img/timeline/Screen Shot 2021-04-15 at 4.18.16 PM.png',
-        imageHeight: 200,
-        iconImage  : 'img/timeline/linkedin.png',
       },
     ],
   }),

@@ -1,16 +1,16 @@
 <template>
   <v-card
-    color="card-panel teal lighten-2"
+    color="card-panel teal darken-2"
     dark
   >
     <v-card-text>
       <avatar />
       <div class="text-sm-center mb-4 mt-3">
         <h1>
-          <span class="black--text text--lighten-3">Mohit Kumar</span>
+          <span class="white--text text--lighten-3">Mohit Kumar</span>
         </h1>
         <span>
-          <h4 class="black--text text--lighten-3">Senior Specialist/Automation Architect</h4>
+          <h4 class="white--text text--lighten-3">Senior Specialist/Automation Architect</h4>
         </span>
       </div>
 
@@ -49,7 +49,7 @@
                     size="65"
                     width="2"
                     :value="item.value"
-                    color="black"
+                    color="white"
                     class="ma-2"
                   >
                     {{ item.text }}
@@ -82,7 +82,7 @@ export default {
               text: 'Feb 04, 1989',
             },
             {
-              name: 'Home Town',
+              name: 'Location',
               icon: 'mdi-map-marker',
               text: 'Bangalore, India',
             },
@@ -97,15 +97,18 @@ export default {
               text: 'kumar.mohit3189@gmail.com',
             },
             {
+              name: 'linkedIn',
               icon: 'mdi-linkedin-box',
               text: 'linkedin.com/in/mohit-kumar-6143001b/',
               link: 'https://www.linkedin.com/in/mohit-kumar-6143001b/',
             },
             {
+              name: 'Phone',
               icon: 'mdi-phone',
               text: '+91-7022494429',
             },
             {
+              name: 'GitHub',
               icon: 'mdi-github-circle',
               text: 'github.com/mohkumar',
               link: 'https://github.com/mohkumar',
@@ -166,6 +169,6 @@ export default {
 
 <style scoped>
 .sidebar{
-    background: #4db6ac;
+    background: #008571;
 }
 </style>

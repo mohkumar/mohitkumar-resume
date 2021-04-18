@@ -32,6 +32,12 @@
               </v-layout>
               <v-layout>
                 <v-flex md12>
+                  <timeline-secondry />
+                  <timeline-endless />
+                </v-flex>
+              </v-layout>
+              <v-layout>
+                <v-flex md12>
                   <timeline-primary />
                   <timeline-endless />
                 </v-flex>
@@ -48,6 +54,7 @@
 import SidebarContainer from '@/views/dark-template/sidebar/Container'
 import ContentContainer from '@/views/dark-template/content/Container'
 import TimelinePrimary from '@/views/dark-template/timeline/Primary'
+import TimelineSecondry from '@/views/dark-template/timeline/Secondry'
 import GithubRibbon from '@/views/dark-template/GithubRibbon'
 
 export default {
@@ -57,6 +64,7 @@ export default {
     TimelinePrimary,
     ContentContainer,
     SidebarContainer,
+    TimelineSecondry,
   },
 }
 </script>
