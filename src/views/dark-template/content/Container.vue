@@ -145,12 +145,12 @@ export default {
         value: 95,
       },
       {
-        title: 'Cucumner - NodeJS',
+        title: 'Cucumber - NodeJS',
         icon : 'mdi-language-javascript',
         value: 90,
       },
       {
-        title: 'Cucumner - Java',
+        title: 'Cucumber - Java',
         icon : 'mdi-table',
         value: 90,
       },
