@@ -10,13 +10,7 @@
           <span class="white--text text--lighten-3">Mohit Kumar</span>
         </h1>
         <span>
-          <h1>
-            <h2>
-              <h3>
                 <h4 class="white--text text--lighten-3">Product Test Manager</h4>
-              </h3>
-            </h2>
-          </h1>
         </span>
       </div>
 
