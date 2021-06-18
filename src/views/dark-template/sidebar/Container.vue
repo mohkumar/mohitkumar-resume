@@ -13,7 +13,7 @@
           <h1>
             <h2>
               <h3>
-                <h4 class="white--text text--lighten-3">Senior Specialist/Automation Architect</h4>
+                <h4 class="white--text text--lighten-3">Product Test Manager</h4>
               </h3>
             </h2>
           </h1>
@@ -82,15 +82,15 @@ export default {
         info: {
           title: 'INFO',
           items: [
+            // {
+            //   name: 'Birth Date',
+            //   icon: 'mdi-cake-variant',
+            //   text: 'Feb 04, 1989',
+            // },
             {
-              name: 'Birth Date',
-              icon: 'mdi-cake-variant',
-              text: 'Feb 04, 1989',
-            },
-            {
-              name: 'Location',
+              name: 'Address',
               icon: 'mdi-map-marker',
-              text: 'Bangalore, India',
+              text: 'Jal 1504, Unicca Emporis, Varthur, Bangalore - 560087, India',
             },
           ],
         },
@@ -105,8 +105,8 @@ export default {
             {
               name: 'linkedIn',
               icon: 'mdi-linkedin-box',
-              text: 'linkedin.com/in/mohit-kumar-6143001b/',
-              link: 'https://www.linkedin.com/in/mohit-kumar-6143001b/',
+              text: 'linkedin.com/in/mohkumar31',
+              link: 'https://www.linkedin.com/in/mohkumar31/',
             },
             {
               name: 'Phone',

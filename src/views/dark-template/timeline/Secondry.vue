@@ -135,7 +135,7 @@ export default {
         iconImage  : 'img/timeline/linkedin.png',
       },
       {
-        year : 'March - 2021',
+        year : 'March -2021',
         title: 'Article on Design QA - Make it Official',
         html : `
           <p>

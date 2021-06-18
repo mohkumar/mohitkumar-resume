@@ -130,7 +130,7 @@ export default {
                           <h2>
                             <h3>
                               <h4>
-                                <h5>Software Engineer/Product Engineer</h5>
+                                <h5>Software Engineer | Product Engineer</h5>
                               </h4>
                             </h3>
                           </h2>
@@ -191,7 +191,7 @@ export default {
                 <h2>
                   <h3>
                       <h4>
-                          <h5>Senior Test Automation Engineer/Product QA</h5>
+                          <h5>Senior Test Automation Engineer | Product QA</h5>
                       </h4>
                   </h3>
                 </h2>
@@ -221,7 +221,7 @@ export default {
                         <h2>
                             <h3>
                               <h4>
-                                <h5>Senior Test Automation Engineer/Product QA</h5>
+                                <h5>Senior Test Automation Engineer | Product QA</h5>
                               </h4>
                             </h3>
                           </h2>
@@ -254,7 +254,7 @@ export default {
                           <h2>
                             <h3>
                               <h4>
-                                <h5>Consultant/Test Automation Lead</h5>
+                                <h5>Consultant | Test Automation Lead</h5>
                               </h4>
                             </h3>
                           </h2>
@@ -274,7 +274,40 @@ export default {
       },
       {
         detailed   : true,
-        year       : '2018-Present',
+        year       : '2018 - 2021',
+        transparent: false,
+        // title      : 'Deloitte, Bangalore',
+        html       : `
+                    <p>
+                      <h1>
+                          <h2>
+                            <h3>
+                              <h4>
+                                <h5>Senior Specialist | Automation Solution Architect</h5>
+                              </h4>
+                            </h3>
+                          </h2>
+                        </h1>
+                    </p>
+                    <ul>
+                      <li>Working as Test Manager and helped him setting up Manual &amp; Automation processes for Deloitte’s first-ever Class 2 SaMD App</li>
+                      <li>Involved in developing first-ever connected device automation framework for Class 2 SaMD Apps</li>
+                      <li>Managed the team including development, QA and Dev opts to meet the sprint timeline</li>
+                      <li>Responsible for sending daily scrum report between onshore and offshore team including client as well</li>
+                      <li>Headed Automation Testing individually and coordinating between the development and test team</li>
+                      <li>Involved in reviewing user stories available in JIRA and providing feedback</li>
+                      <li>Involved in preparation of Test Plan &amp; Strategy, Test Protocols, and Test Scripts</li>
+                      <li>Writing BDD Gherkin syntax that can be used to create executable tests</li>
+                      <li>Involved in attending calls with the offshore and onsite team on a weekly basis</li>
+                      <li>Involve in the team to gain expertise on various test tools</li>
+                      <li>Providing automation testing knowledge within and across teams</li>
+                    </ul>`,
+        iconImage  : 'img/timeline/deloitte.png',
+        imageHeight: 200,
+      },
+      {
+        detailed   : true,
+        year       : '2021- Present',
         transparent: false,
         title      : 'Deloitte, Bangalore',
         html       : `
@@ -283,7 +316,7 @@ export default {
                           <h2>
                             <h3>
                               <h4>
-                                <h5>Senior Specialist/Automation Solution Architect</h5>
+                                <h5>Product Test Manager | Automation Solution Architect</h5>
                               </h4>
                             </h3>
                           </h2>
