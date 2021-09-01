@@ -7,8 +7,8 @@
       <content-section
         title="About"
       >
-        Product Test Manager, specializing in various domain such as Defence, Retail (B2B, B2C) and Life Science and Health Care industry. Goal-oriented individual with strong leadership capabilities, problem-solving ability using innovative technology and creative thinking.<br><br>
-        I have been working as a Specialist Master | Automation Solution Architect at Deloitte. Trained on IEC 62304:2006 for “Medical device software — Software life cycle processes”, lead on various challenging client engagements. My primary responsibilities have been to architect software solutions for highly complex business requirements. I have been leading a team of software and quality assurance engineers and have defined and implemented technology frameworks for client projects. I am responsible for enforcing and applying Deloitte's strict quality and delivery methodologies to these engagements. I have defined and set clear standards to be pursued for code and quality reviews that becomes a high value, viable product to the client.
+        Product Test Manager specializing in various domain such as Life Science and Health Care industry primarily, Retail & E-commerce (B2B & B2C). Goal-oriented individual with strong leadership capabilities, problem-solving ability using innovative technology and creative thinking.<br><br>
+        I have been working as a Product Test Specialist at Deloitte and as the technical. Certified IEC 62304:2006 for “Medical device software — Software life cycle processes”, lead various challenging client engagements. My primary responsibilities have been to architect Test automation solutions for highly complex business requirements. I have been leading a team of software and quality assurance engineers and have defined and implemented technology frameworks for client projects. I am responsible for enforcing and applying strict quality and delivery methodologies that fit overall system. I have defined and set clear standards to be pursued for code & quality reviews that becomes a high value, viable product to the client.
       </content-section>
       <content-section
         v-if="educations"
@@ -108,12 +108,6 @@ export default {
         to      : '2010',
         title   : 'BE, Information Technology',
         location: 'Acharya Institute Of Technology, Bangalore',
-      },
-      {
-        from    : '2017',
-        to      : '2019',
-        title   : 'Post Graduate Diploma in Business Management',
-        location: 'SVKM\'s Narsee Monjee Institute of Management Studies (NMIMS), Bangalore',
       },
     ],
     licences: [

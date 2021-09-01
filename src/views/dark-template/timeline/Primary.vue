@@ -316,25 +316,21 @@ export default {
                           <h2>
                             <h3>
                               <h4>
-                                <h5>Product Test Manager | Automation Solution Architect</h5>
+                                <h5>Product Test Manager | Building Test Automation Products</h5>
                               </h4>
                             </h3>
                           </h2>
                         </h1>
                     </p>
                     <ul>
-                      <li>Working as Test Manager and helped him setting up Manual &amp; Automation processes for Deloitte’s first-ever Class 2 SaMD App</li>
-                      <li>Involved in developing first-ever connected device automation framework for Class 2 SaMD Apps</li>
-                      <li>Managed the team including development, QA and Dev opts to meet the sprint timeline</li>
-                      <li>Responsible for sending daily scrum report between onshore and offshore team including client as well</li>
-                      <li>Headed Automation Testing individually and coordinating between the development and test team</li>
-                      <li>Involved in reviewing user stories available in JIRA and providing feedback</li>
-                      <li>Involved in preparation of Test Plan &amp; Strategy, Test Protocols, and Test Scripts</li>
-                      <li>Writing BDD Gherkin syntax that can be used to create executable tests</li>
-                      <li>Involved in attending calls with the offshore and onsite team on a weekly basis</li>
-                      <li>Involve in the team to gain expertise on various test tools</li>
-                      <li>Providing automation testing knowledge within and across teams</li>
-                    </ul>`,
+                      <li>Applying Shift left driven approach into Software Product Life Cyle</li>
+                      <li>Managing and developing an elite team of QA engineers</li>
+                      <li>Coordinating and optimizing testing in a multi-functional environment</li>
+                      <li>Developing test strategies and creating appropriate test harnesses as well as pragmatic testing approaches</li>
+                      <li>Developing and executing a roadmap for building testing framework and related infrastructure</li>
+                      <li>Working with business and development teams to understand product vision and requirements</li>
+                      <li>Reporting, providing sign-offs & escalations of issues</li>
+                      </ul>`,
         iconImage  : 'img/timeline/deloitte.png',
         imageHeight: 200,
       },
