@@ -323,7 +323,7 @@ export default {
                         </h1>
                     </p>
                     <ul>
-                      <li>Applying Shift left driven approach into Software Product Life Cyle</li>
+                      <li>Applying Shift left driven approach into Software Product Life Cycle</li>
                       <li>Managing and developing an elite team of QA engineers</li>
                       <li>Coordinating and optimizing testing in a multi-functional environment</li>
                       <li>Developing test strategies and creating appropriate test harnesses as well as pragmatic testing approaches</li>
