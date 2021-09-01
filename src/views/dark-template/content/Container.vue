@@ -139,13 +139,13 @@ export default {
         value: 95,
       },
       {
-        title: 'Cucumber - NodeJS',
-        icon : 'mdi-language-javascript',
-        value: 90,
+        title: 'Manual Testing',
+        icon : 'mdi-bug',
+        value: 95,
       },
       {
-        title: 'Cucumber - Java',
-        icon : 'mdi-table',
+        title: 'Cucumber - NodeJS',
+        icon : 'mdi-language-javascript',
         value: 90,
       },
       {
@@ -171,17 +171,17 @@ export default {
       {
         title: 'API Testing',
         icon : 'mdi-server',
-        value: 80,
+        value: 70,
       },
       {
-        title: 'Performance Testing',
-        icon : 'mdi-chart-line',
-        value: 67,
+        title: 'Automated Accessibility Testing',
+        icon : 'mdi-webcam',
+        value: 95,
       },
       {
         title: 'QAOps',
         icon : 'mdi-sync',
-        value: 70,
+        value: 60,
       },
       {
         title: 'Git',

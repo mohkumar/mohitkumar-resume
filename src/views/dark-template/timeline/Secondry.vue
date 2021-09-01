@@ -153,6 +153,25 @@ export default {
         imageHeight: 200,
         iconImage  : 'img/timeline/linkedin.png',
       },
+      {
+        year : 'Sept -2021',
+        title: 'Article on AI & Automation',
+        html : `
+          <p>
+              Current status: <span class="blue--text text--darken-2">Published</span><br>Available on: <a target="_blank" href="https://www.linkedin.com/pulse/ai-automation-mohit-kumar/">AI & Automation</a>
+          </p>
+          <p>
+            Next-Level Automation.
+            <ul>
+                <li>What is AI?</li>
+                <li>How to introdude AI in Automation?</li>
+            </ul>
+          </p>
+        `,
+        image      : 'img/timeline/1620243913972.png',
+        imageHeight: 200,
+        iconImage  : 'img/timeline/linkedin.png',
+      },
     ],
   }),
   computed: {
