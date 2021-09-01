@@ -164,7 +164,7 @@ export default {
             Next-Level Automation.
             <ul>
                 <li>What is AI?</li>
-                <li>How to introdude AI in Automation?</li>
+                <li>How to introduce AI in Automation?</li>
             </ul>
           </p>
         `,
